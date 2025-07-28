@@ -105,8 +105,6 @@ flutter build ios --release
 ```
 
 ## 🙏 Acknowledgments
-- Built with [❤] By Pratik Chandra Thakur
+- Built with ❤ By Pratik Chandra Thakur
 - Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
 - Styled with Material Design
-
-Built with ❤️ on Rocket.new
